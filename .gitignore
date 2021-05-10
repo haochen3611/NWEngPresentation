@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+*.whl
+*.tar.bz2
+.idea
